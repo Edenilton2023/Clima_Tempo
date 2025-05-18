@@ -36,7 +36,7 @@ function Header({ onBuscar }) {
         {/* Input controlado, que pega o valor da cidade e atualiza o estado */}
         <button type="submit" className="px-4 py-2 bg-blue-600 rounded text-white hover:bg-gray-200">
           
-          Buscar
+          Buscar cidade
         </button>
       </form>
     </header>
